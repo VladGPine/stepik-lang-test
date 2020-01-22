@@ -6,13 +6,13 @@ python -m venv selenium_env
 ```
 install packages:
 ```
-> pip install -r requirements.txt
+pip install -r requirements.txt
 ```
 activate environment:
 ```
-> selenium_env\Scripts\activate.bat
+selenium_env\Scripts\activate.bat
 ```
 for language test:
 ```
-> pytest --language=es
+pytest --language=es
 ```
